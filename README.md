@@ -1,6 +1,6 @@
 <div align="center">
 
-Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
+Made with 💜 by Nil's Diary
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
@@ -1160,7 +1160,7 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
 
-### Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
+### Made with 💜 by Nil's Diary
 
 ### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
 
